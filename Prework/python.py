@@ -49,7 +49,7 @@ def is_consecutive(a_list):
         if a_list[index] > a_list[index+1]:
             print(False)
         elif a_list[index] + 1 != a_list[index+1]:
-            print(False)
+            print(True)
         
     print(True)
 is_consecutive([1,2,4,5])
