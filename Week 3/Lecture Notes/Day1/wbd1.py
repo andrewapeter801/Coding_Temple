@@ -12,6 +12,11 @@
 # get smallest and largest numbers
 # return all numbers between smallest and largest (inclusive)
 
+
 def get_all_pipes(have_pipes):
     have_pipes = sorted(have_pipes)
-    min_pipes = have_pipes
+    min_pipes = have_pipes[0]
+    max_pipes = have_pipes[-1]
+    all_pipes = [x for x in range(min_pipes, max_pipes+1)]
+    return all_pipes
+    
