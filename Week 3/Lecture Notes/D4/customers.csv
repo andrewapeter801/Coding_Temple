@@ -1,0 +1,11 @@
+,customer_id,renewal_nbr,term_in_years,customer_tenure,aug_id,ages,age_group_applied
+0,1051,7,0.5,3.5,1052,56,adult
+1,1092,4,0.5,2.0,1093,69,Senior
+2,1014,3,0.5,1.5,1015,46,adult
+3,1071,7,0.5,3.5,1072,32,young adult
+4,1060,7,0.5,3.5,1061,60,adult
+5,1020,2,0.5,1.0,1021,25,young adult
+6,1082,5,1.0,5.0,1083,38,adult
+7,1086,4,1.0,4.0,1087,56,adult
+8,1074,1,0.5,0.5,1075,36,adult
+9,1074,7,0.5,3.5,1075,40,adult
