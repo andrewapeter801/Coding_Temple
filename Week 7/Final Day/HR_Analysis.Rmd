@@ -16,10 +16,12 @@ Our premise today will be to intake a dataset from Kaggle, and analyze the data 
 ```{r}
 # Tidyverse all about Data Analytics. We will use it a lot for our processing of our dataset
 library(tidyverse)
+library(readr)
 ```
 
 ```{r}
 hr_df <- read_csv("C:/Users/bioni/OneDrive/Documents/GitHub/Coding_Temple/Week 7/Final Day/HR_Analytics.csv")
+
 
 hr_df
 ```
